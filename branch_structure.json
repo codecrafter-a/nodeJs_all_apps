@@ -1,0 +1,48 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "dependabot/npm_and_yarn/blogPM/blogPM/socket.io-parser-3.3.3",
+    "dependabot/npm_and_yarn/book-(1)/book/mongoose-8.8.3",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-27a054522e",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-6bc014718a",
+    "dependabot/npm_and_yarn/book-(1)/book/qs-6.11.0",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/async-2.6.4",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/minimist-1.2.6",
+    "dependabot/npm_and_yarn/node-practise/node-practise/async-2.6.4",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-1d234c620e",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-9f37c16f8f",
+    "dependabot/npm_and_yarn/node-practise/node-practise/qs-6.11.0",
+    "dependabot/npm_and_yarn/node-practise/node-practise/word-wrap-1.2.5",
+    "master"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/blogPM/blogPM/socket.io-parser-3.3.3": "master",
+    "dependabot/npm_and_yarn/book-(1)/book/mongoose-8.8.3": "master",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-27a054522e": "master",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-6bc014718a": "master",
+    "dependabot/npm_and_yarn/book-(1)/book/qs-6.11.0": "master",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/async-2.6.4": "master",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/minimist-1.2.6": "master",
+    "dependabot/npm_and_yarn/node-practise/node-practise/async-2.6.4": "master",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-1d234c620e": "master",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-9f37c16f8f": "master",
+    "dependabot/npm_and_yarn/node-practise/node-practise/qs-6.11.0": "master",
+    "dependabot/npm_and_yarn/node-practise/node-practise/word-wrap-1.2.5": "master",
+    "master": null
+  },
+  "order": [
+    "master",
+    "dependabot/npm_and_yarn/blogPM/blogPM/socket.io-parser-3.3.3",
+    "dependabot/npm_and_yarn/book-(1)/book/mongoose-8.8.3",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-27a054522e",
+    "dependabot/npm_and_yarn/book-(1)/book/multi-6bc014718a",
+    "dependabot/npm_and_yarn/book-(1)/book/qs-6.11.0",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/async-2.6.4",
+    "dependabot/npm_and_yarn/node-practise-(1)/node-practise/minimist-1.2.6",
+    "dependabot/npm_and_yarn/node-practise/node-practise/async-2.6.4",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-1d234c620e",
+    "dependabot/npm_and_yarn/node-practise/node-practise/multi-9f37c16f8f",
+    "dependabot/npm_and_yarn/node-practise/node-practise/qs-6.11.0",
+    "dependabot/npm_and_yarn/node-practise/node-practise/word-wrap-1.2.5"
+  ]
+}
